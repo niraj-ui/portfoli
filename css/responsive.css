@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (max-width:736px){
+.navbar-toggle .icon-bar{background:#000;}.navbar-toggle{ background:#fff;}
+}
+@media only screen and (max-width:640px){
+.super-title{font-size:52px;}
+.abt{ display:block;}
+}
+
+@media only screen and (max-width:640px){
+.chngclr a{margin: 10px 10px 10px;}	.chngclr{ padding-bottom:20px;}
+.bg_lght,.bg_lght_drk{    padding: 50px 20px;}
+}
+@media only screen and (max-width:640px){
+	.super-title{font-size:40px;}.chngclr a{padding: 8px 25px;}
+}
